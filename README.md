@@ -2,7 +2,6 @@
 
 **GitHub Release Tab** is a browser extension that automatically adds a "Release" tab to the navigation bar of a GitHub repository page. This tab links directly to the repository’s releases page, making it easily accessible from the main navigation.
 
-
 ## Installation
 ### As a Browser Extension
 
@@ -15,6 +14,8 @@
 ## Usage
 
 After installation, visit any GitHub repository, and you should see a new "Release" tab in the navigation bar. Clicking the "Release" tab will take you to the `/releases` page of the repository.
+
+https://github.com/user-attachments/assets/a9fbe143-8929-4768-b61f-48d9682b58ba
 
 ## Contributing
 
