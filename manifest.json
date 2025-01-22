@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Release Tab",
+  "version": "1.0",
+  "description": "Adds a 'Release' tab to GitHub repositories.",
+  "permissions": ["scripting"],
+  "host_permissions": ["https://github.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
